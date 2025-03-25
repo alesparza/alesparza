@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi!  I'm Antonio.  I'm a Clinical Laboratory Application Snalyst at the University of Pennsylvania Health System.  I am also a Teaching Assistant for the University of Pennsylvania's Masters in Computer and Information Technology online program.
+
 
 <!--
 **alesparza/alesparza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
