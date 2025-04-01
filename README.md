@@ -1,10 +1,5 @@
-# Me
-
 Hi!  I'm Antonio.  I'm a Clinical Laboratory Application Snalyst at the University of Pennsylvania Health System.
 I am also a Teaching Assistant for the University of Pennsylvania's Masters in Computer and Information Technology online program.
-
-
-# Work
 
 ## UPHS
 
@@ -24,7 +19,7 @@ On the side, I additionally help write and manage course autograders and the bac
 CIT595 is a continuation of CIT593 focusing more on the operating system, system calls, concurrency, file management, and networking.
 I also assist with writing and maintaining the course autograders.
 
-### Accomplishments
+## Accomplishments
 
 I will add something here in the future probably.
 
