@@ -19,7 +19,45 @@ On the side, I additionally help write and manage course autograders and the bac
 CIT595 is a continuation of CIT593 focusing more on the operating system, system calls, concurrency, file management, and networking.
 I also assist with writing and maintaining the course autograders.
 
-## Accomplishments
+## Programming Accomplishments
 
-I will add something here in the future probably.
+### PennSim 
+Apologies, but this is not publically available for obvious reasons.
+
+####  Refactor source code
+
+For whatever reason, the source code for PennSim was completely unreadable (no annotations, weird variables, etc).
+I learned the entire source code and refactored for readability.
+I also added JavaDocs so the next maintainer has a place to start.
+
+#### Upgrades and improvements
+
+I found a lot of commented out features and managed to restore them in the simulator.
+Some of them include an internal source viewer, a Data Path extension (shows control signals as each instruction executes), local copies of important ISA documents, and auto-executable demo code.
+I also rewrote the manual and included it in the simulator.
+
+#### Automated checks and validation
+
+I managed to set up the repository for continuous integration via CircleCI, so any changes automatically re-validate before merging pull requests.
+I also added many unit tests that run through the Maven life cycle.
+This has improved reliability and confidence that changes won't break course assignments unexpectedly.
+
+### Course autograders
+Apologies, but these are not publically available for obvious reasons.
+
+#### 593 Gradescope
+I wrote a modularized autograder for the three C programming assignments.  The autograder also runs for other assignments to check for submitted files and also to grade an excel spreadsheet.
+
+#### 595 (various)
+I will put some things here one day.
+
+### Public Programs
+
+#### [EDF Anonymizer](https://github.com/alesparza/edf-anonymizer)
+
+This is a small little program to help anonymize EDF files.
+
+#### [Instrument Emulator](https://github.com/alesparza/Instrument-Emulator)
+
+This is a small project to try out GUI elements and also network programming (using the ASMT protocol for laboratory instruments)
 
